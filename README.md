@@ -61,9 +61,9 @@ The experimental data used in this project was generated to study the effects of
 - A large-scale reactor with a volume of 25 L.
 
 Experiments were performed using three distinct chemical promoters (catalysts) at various concentrations:
-###### 1. Methionine
-###### 2. SDS
-###### 3. Tryptophan
+- Methionine
+- SDS
+- Tryptophan
 
 Furthermore, to study the influence of surface area on kinetics, the experiments were run under two surface conditions: with and without the use of surface packing material.
 
@@ -117,9 +117,9 @@ Furthermore, to study the influence of surface area on kinetics, the experiments
 ## ▶️ Usage
 
 All models and analyses are organized into their respective directories.
-- ### For MLE and MAP modeling:
+- ###### For MLE and MAP modeling:
    Navigate to the MLE-MAP/ directory and run the Jupyter notebooks or Python scripts contained within.
-- ### For Full Bayesian Inference:
+- ###### For Full Bayesian Inference:
   Navigate to the full-bayesian-inference/ directory to run the PyMC models.
 
 ---
@@ -148,9 +148,3 @@ All models and analyses are organized into their respective directories.
 
 -   IIT Kanpur | Mechanical Engineering
 -   [GitHub](https://github.com/pushpdeep07)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
