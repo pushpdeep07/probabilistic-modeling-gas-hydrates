@@ -117,9 +117,9 @@ Furthermore, to study the influence of surface area on kinetics, the experiments
 ## ▶️ Usage
 
 All models and analyses are organized into their respective directories.
-- ###### For MLE and MAP modeling:
+- #### For MLE and MAP modeling:
    Navigate to the MLE-MAP/ directory and run the Jupyter notebooks or Python scripts contained within.
-- ###### For Full Bayesian Inference:
+- #### For Full Bayesian Inference:
   Navigate to the full-bayesian-inference/ directory to run the PyMC models.
 
 ---
