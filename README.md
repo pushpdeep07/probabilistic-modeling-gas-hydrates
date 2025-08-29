@@ -146,5 +146,5 @@ All models and analyses are organized into their respective directories.
 
 **Pushpdeep Teotia**
 
--   IIT Kanpur | Mechanical Engineering | 220840
+-   IIT Kanpur | Mechanical Engineering
 -   [GitHub](https://github.com/pushpdeep07)
